@@ -3,7 +3,7 @@
 
 Steps to git-clone:
 
-
+```
 step 1: git clone https://github.com/RahulR300/ml_project
 
 step 2: open folder, open cmd
